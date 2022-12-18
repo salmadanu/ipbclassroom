@@ -104,10 +104,6 @@
                             </tbody>
                         </table>
                     </div>
-                    <div>
-                        <a href="tambah_ruangan.php" class="button button--flex" name="daftar">
-                        Tambah Ruangan</a>
-                    </div>
                     </div>
             </section>
             </main>
